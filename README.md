@@ -4,9 +4,9 @@
 
 - 🎓 I'm a Fresh Graduate from UPN Veteran Jakarta with **GPA 3.93/4.00** who is very interested about Web & Mobile Development
 
-- 💻 I am proficient in using frameworks like **Vue.Js, Tailwind, Nest.Js, Laravel, ORM Prisma, etc**.
+- 💻 I am proficient in using frameworks like **React.Js, Vue.Js, Tailwind, Nest.Js, Laravel, ORM Prisma, etc**.
 
-- 💼 I have 1 year internship experience as an IT Developer at **PT. Bank BTPN Syariah, Tbk** and **Perum Damri** are responsible for developed their main business based on **mobile** and **web** with the appropriate tech stack.
+- 💼 I have experience as an Full Stack Developer at **Infomedia Nusantara (Telkomsel)** an and Front End Developer at **PT. Bank BTPN Syariah, Tbk** and **Perum Damri** are responsible for developed their main business based on **mobile** and **web** with the appropriate tech stack.
 
 - ❤️ My interesting experience is being a Speaker at the event "Tips for Learning Web Development for Beginners" (2022), and Speaker Assistant at the **Google I/O Extended Event (2022)**
 
@@ -18,6 +18,7 @@
 
 
 ### 💻 Tech Stack
+![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp
 ![Vue Js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![Tailwind Css](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-05122A?style=flat&logo=vuetify)
