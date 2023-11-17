@@ -6,7 +6,7 @@
 
 - 💻 I am proficient in using frameworks like **React.Js, Vue.Js, Tailwind, Nest.Js, Laravel, ORM Prisma, etc**.
 
-- 💼 I have experience as an Full Stack Developer at **Infomedia Nusantara (Telkomsel)** and Front End Developer at **PT. Bank BTPN Syariah, Tbk** and **Perum Damri** are responsible for developed their main business based on **mobile** and **web** with the appropriate tech stack.
+- 💼 I have experience as an Front End Developer at **PT. Bank BTPN Syariah, Tbk** and **Perum Damri** are responsible for developed their main business based on **mobile** and **web** with the appropriate tech stack.
 
 - ❤️ My interesting experience is being a Speaker at the event "Tips for Learning Web Development for Beginners" (2022), and Speaker Assistant at the **Google I/O Extended Event (2022)**
 
